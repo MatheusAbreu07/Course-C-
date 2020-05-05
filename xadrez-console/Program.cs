@@ -7,9 +7,7 @@ namespace xadrez_console
     {
         static void Main(string[] args)
         {
-            Posicao p;
-
-            p = new Posicao(1, 2);
+            
 
         }
     }
